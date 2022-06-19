@@ -1,4 +1,6 @@
 # Android Dexing Bug
+**NOTE: This was not actually a bug, but an issue with the Samsung Pass library. Using a newer version of the library fixes the issue.**
+
 This repository aims to reproduce a bug with dexing a library with Android Gradle Plugin (AGP) 4.2.1.
 
 This issue is still present in versions 7.0.0-beta04 and 7.1.0-alpha02.
